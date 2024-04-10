@@ -7,7 +7,7 @@
     <ProjectGuid>{A267ECFF-03CB-4631-94C9-1D6CE678EF5A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>WindowsFormsApp1_CAPAPRESENTACION_</RootNamespace>
-    <AssemblyName>WindowsFormsApp1_CAPAPRESENTACION_</AssemblyName>
+    <AssemblyName>WindowsFormsApp1%28CAPAPRESENTACION%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,6 +54,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -75,6 +78,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1%28CapaDeNegocio%29\ClassLibrary1%28CapaDeNegocio%29.csproj">
+      <Project>{1fde4328-e778-44a7-8312-1a93f2fb5b5a}</Project>
+      <Name>ClassLibrary1%28CapaDeNegocio%29</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

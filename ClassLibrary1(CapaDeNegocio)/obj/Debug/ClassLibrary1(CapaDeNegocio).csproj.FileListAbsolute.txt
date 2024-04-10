@@ -1,0 +1,1 @@
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\ClassLibrary1(CapaDeNegocio)\obj\Debug\ClassLibrary1(CapaDeNegocio).csproj.CoreCompileInputs.cache

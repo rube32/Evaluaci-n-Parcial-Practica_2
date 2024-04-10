@@ -1,0 +1,5 @@
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\WindowsFormsApp1(CAPAPRESENTACION)\obj\Debug\WindowsFormsApp1(CAPAPRESENTACION).csproj.AssemblyReference.cache
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\WindowsFormsApp1(CAPAPRESENTACION)\obj\Debug\WindowsFormsApp1_CAPAPRESENTACION_.Form1.resources
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\WindowsFormsApp1(CAPAPRESENTACION)\obj\Debug\WindowsFormsApp1_CAPAPRESENTACION_.Properties.Resources.resources
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\WindowsFormsApp1(CAPAPRESENTACION)\obj\Debug\WindowsFormsApp1(CAPAPRESENTACION).csproj.GenerateResource.cache
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\WindowsFormsApp1(CAPAPRESENTACION)\obj\Debug\WindowsFormsApp1(CAPAPRESENTACION).csproj.CoreCompileInputs.cache

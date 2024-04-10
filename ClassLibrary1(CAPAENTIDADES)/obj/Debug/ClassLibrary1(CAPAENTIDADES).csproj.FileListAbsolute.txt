@@ -1,0 +1,6 @@
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\ClassLibrary1(CAPAENTIDADES)\bin\Debug\ClassLibrary1(CAPAENTIDADES).dll
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\ClassLibrary1(CAPAENTIDADES)\bin\Debug\ClassLibrary1(CAPAENTIDADES).pdb
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\ClassLibrary1(CAPAENTIDADES)\obj\Debug\ClassLibrary1(CAPAENTIDADES).csproj.AssemblyReference.cache
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\ClassLibrary1(CAPAENTIDADES)\obj\Debug\ClassLibrary1(CAPAENTIDADES).csproj.CoreCompileInputs.cache
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\ClassLibrary1(CAPAENTIDADES)\obj\Debug\ClassLibrary1(CAPAENTIDADES).dll
+C:\Users\Rube\source\repos\Evaluación Parcial – Practica_2\ClassLibrary1(CAPAENTIDADES)\obj\Debug\ClassLibrary1(CAPAENTIDADES).pdb
